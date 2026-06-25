@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project config
+config.json
+config.json.example
+
+# Logs
+Logs/
+
+# Test output
+test_output/
+
+# Spec files (internal)
+.trae/
+
+# IDE
+.vscode/
+.idea/
